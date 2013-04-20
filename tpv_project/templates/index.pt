@@ -49,7 +49,7 @@
           <a class="brand" href="#">Likes Movie Finder</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li class="active"><a href="#">Home</a></li>
+              <li class="active"><a href="/tpv">Home</a></li>
               <li><a href="/about">About</a></li>
             </ul>
           </div><!--/.nav-collapse -->
