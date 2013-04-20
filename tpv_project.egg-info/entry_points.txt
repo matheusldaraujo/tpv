@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = tpv_project:main
+      [console_scripts]
+      initialize_tpv_project_db = tpv_project.scripts.initializedb:main
+      
