@@ -1,0 +1,8 @@
+
+# Compiled source #
+###################
+*.PKG-INFO
+*.PKG-INFO
+*.SOURCES.txt
+*.pyc
+tpv_project/scripts/imdb/
